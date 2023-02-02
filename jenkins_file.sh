@@ -27,5 +27,3 @@
   sudo firewall-cmd --permanent --zone=public --add-port=8080/tcp
   sudo firewall-cmd --reload
 
-  #V- How to Set up Jenkins in the browser
-  
